@@ -80,6 +80,7 @@ android_library {
         "SettingsLibActivityEmbedding",
         "org.lineageos.platform.internal",
         "LineagePreferenceLib",
+        "SystemUISharedLib",
     ],
 
     libs: [
