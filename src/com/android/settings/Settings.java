@@ -242,7 +242,6 @@ public class Settings extends SettingsActivity {
     public static class MediaControlsSettingsActivity extends SettingsActivity {}
 
     public static class crDroidSettingsLayoutActivity extends SettingsActivity {}
-    public static class GamingModeActivity extends SettingsActivity {}
     public static class OmniJawsSettingsActivity extends SettingsActivity {}
     public static class SmartPixelsActivity extends SettingsActivity {}
     public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
